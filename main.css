@@ -1,0 +1,42 @@
+a { 
+  text-decoration: none;
+}
+
+a:link { 
+  color: #fff480;
+}
+
+a:visited {
+  color: #ffe700;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
+}
+
+body {
+  background: #000621;
+  color: #ffffff;
+  margin:2em auto;
+  font-family: sans-serif;
+  font-size: 101%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fffde6;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.14em; 
+}
+
+#pagewrapper {
+  margin: 0 auto;
+  width: 600px;
+}
+
+
