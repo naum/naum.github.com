@@ -36,6 +36,7 @@ h1 {
 
 #pagewrapper {
   margin: 0 auto;
+  text-align: justify;
   width: 600px;
 }
 
