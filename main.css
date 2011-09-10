@@ -20,6 +20,7 @@ body {
   margin:2em auto;
   font-family: Palatino, Georgia, serif;
   font-size: 101%;
+  line-height: 1.5em;
 }
 
 h1, h2, h3, h4, h5, h6 {
